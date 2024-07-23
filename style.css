@@ -59,7 +59,8 @@ h1 {
 }
 
 .links .btn:hover {
-    background-color: #555;
+    background-color:#c5f82a;
+    color: #000;
 }
 
 .attribution {
